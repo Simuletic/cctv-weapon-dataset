@@ -21,9 +21,10 @@ For custom scenarios, larger datasets, or videos, visit [simuletic.com](https://
 Example YOLO label line:
 0 0.45 0.55 0.20 0.30  # person
 1 0.60 0.70 0.10 0.15  # weapon
-text## Usage
-To load and use the dataset:
-1. Clone this repo: `git clone https://github.com/yourusername/simuletic-weapon-detection.git`
+text## 
+Usage
+To load and use the dataset, visit (https://huggingface.co/datasets/Simuletic/cctv-weapon-dataset)
+
 
 
 Sample dataset.yaml (create in root):
@@ -57,6 +58,6 @@ text@dataset{simuletic_weapon_detection_2025,
 }
 Links
 
-Hugging Face: xxx
-Kaggle: xxx
+Hugging Face: (https://huggingface.co/datasets/Simuletic/cctv-weapon-dataset)
+Kaggle: Not yet published
 Feedback? Reach out via Simuletic.com or issues here.
