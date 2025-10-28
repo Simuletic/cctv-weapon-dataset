@@ -37,6 +37,7 @@ names:
 For Hugging Face integration: See our repo on Hugging Face.
 
 Preprocess resolutions if needed (e.g., via OpenCV for resizing).
+
 Ethics and Limitations
 
 This is fully synthetic data—no real individuals or events are depicted.
@@ -52,10 +53,10 @@ text@dataset{simuletic_weapon_detection_2025,
   author = {Your Name / Simuletic Team},
   title = {Simuletic Synthetic Weapon Detection Dataset},
   year = {2025},
-  url = {https://github.com/yourusername/simuletic-weapon-detection}
+  url = {https://github.com/yourusername/cctv-weapon-dataset}
 }
 Links
 
-Hugging Face: huggingface.co/datasets/yourusername/simuletic-weapon-detection
-Kaggle: kaggle.com/datasets/yourusername/simuletic-weapon-detection
+Hugging Face: xxx
+Kaggle: xxx
 Feedback? Reach out via Simuletic.com or issues here.
