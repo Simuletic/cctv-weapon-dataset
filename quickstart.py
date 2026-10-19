@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Simuletic (Swegardt AI Solutions Sweden AB)
 """Quick start for a Simuletic CCTV dataset: count labels, preview them, fine-tune YOLO, run inference.
 
     pip install ultralytics
