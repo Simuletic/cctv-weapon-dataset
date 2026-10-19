@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "CCTV Weapon Detection Dataset (synthetic sample)",
+  "description": "<p>Synthetic CCTV images of people carrying handguns, rifles, shotguns and scoped rifles, seen from ceiling- and pole-mounted security cameras by day and at night, plus hard-negative images of people holding umbrellas, bags, bottles, phones or tools. 60 images (48 train, 12 val) with 134 bounding boxes for the classes person, handgun, rifle, shotgun and sniper_rifle, in YOLO and COCO format.</p><p>The images are fully synthetic: no real people and no real incident footage. Each image was generated to a scene and camera specification (environment, camera height and angle, lighting, distance), labelled automatically, checked by a vision-language model for object presence, CCTV realism and box placement, and visually reviewed. The sample is intended for research on detector training, evaluation and false-alarm behaviour under realistic surveillance viewpoints.</p>",
+  "creators": [
+    {
+      "name": "Hegardt, Fredrik",
+      "affiliation": "Simuletic (Swegardt AI Solutions Sweden AB)"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "keywords": [
+    "computer vision",
+    "synthetic data",
+    "CCTV",
+    "video surveillance",
+    "object detection",
+    "YOLO",
+    "COCO",
+    "weapon detection",
+    "gun detection",
+    "firearm detection"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Simuletic/cctv-weapon-dataset",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://simuletic.com/datasets/cctv-weapon-detection-dataset",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "version": "2026-10"
+}
