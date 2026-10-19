@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "CCTV Weapon Detection Dataset: synthetic CCTV images with YOLO and COCO labels"
+authors:
+  - name: Simuletic
+    website: "https://simuletic.com"
+    email: contact@simuletic.com
+repository-code: "https://github.com/Simuletic/cctv-weapon-dataset"
+url: "https://simuletic.com/datasets/cctv-weapon-detection-dataset"
+license: CC-BY-NC-4.0
+version: "2026-10"
+date-released: "2026-10-19"
+keywords:
+  - computer-vision
+  - synthetic-data
+  - cctv
+  - object-detection
+  - yolo
+  - dataset
+  - weapon-detection
+  - gun-detection
+  - firearm-detection
+  - threat-detection

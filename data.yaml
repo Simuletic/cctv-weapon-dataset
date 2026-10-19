@@ -1,0 +1,6 @@
+# Free sample of the CCTV weapon detection dataset by Simuletic (https://simuletic.com)
+# Same layout as the full 1K dataset, so the same code trains on both.
+train: images/train
+val: images/val
+nc: 5
+names: [person, handgun, rifle, shotgun, sniper_rifle]
